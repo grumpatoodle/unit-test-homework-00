@@ -1,0 +1,9 @@
+C:\Projects\unit-test-homework-00\UnitTestHomework00\RequestValidators\bin\Debug\netcoreapp2.2\RequestValidators.deps.json
+C:\Projects\unit-test-homework-00\UnitTestHomework00\RequestValidators\bin\Debug\netcoreapp2.2\RequestValidators.dll
+C:\Projects\unit-test-homework-00\UnitTestHomework00\RequestValidators\bin\Debug\netcoreapp2.2\RequestValidators.pdb
+C:\Projects\unit-test-homework-00\UnitTestHomework00\RequestValidators\obj\Debug\netcoreapp2.2\RequestValidators.csproj.CoreCompileInputs.cache
+C:\Projects\unit-test-homework-00\UnitTestHomework00\RequestValidators\obj\Debug\netcoreapp2.2\RequestValidators.AssemblyInfoInputs.cache
+C:\Projects\unit-test-homework-00\UnitTestHomework00\RequestValidators\obj\Debug\netcoreapp2.2\RequestValidators.AssemblyInfo.cs
+C:\Projects\unit-test-homework-00\UnitTestHomework00\RequestValidators\obj\Debug\netcoreapp2.2\RequestValidators.dll
+C:\Projects\unit-test-homework-00\UnitTestHomework00\RequestValidators\obj\Debug\netcoreapp2.2\RequestValidators.pdb
+C:\Projects\unit-test-homework-00\UnitTestHomework00\RequestValidators\obj\Debug\netcoreapp2.2\RequestValidators.csprojAssemblyReference.cache
